@@ -2,3 +2,15 @@ html {
 	background-color: maroon;
 	zoom: 75%;
 }
+
+button {
+	margin: 5px;
+}
+
+p {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
