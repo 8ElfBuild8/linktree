@@ -1,6 +1,6 @@
 html {
 	background-color: maroon;
-	zoom: 150%;
+	zoom: 75%;
 }
 
 button {
@@ -13,4 +13,14 @@ p {
 
 h2 {
 	color: white;
+	margin-left: 60px;
+}
+
+.avatar {
+	width: 300px;
+	height: 400px;
+	position: absolute;
+	left: 300px;
+	top:  10px;
+	border: solid 3px  black;
 }
