@@ -1,6 +1,9 @@
 html {
 	background-color: maroon;
 	zoom: 100%;
+		margin-left: 160px;
+	    margin-right: 160px;
+		margin-top: 100px;
 }
 
 button {
@@ -20,8 +23,8 @@ h2 {
 	width: 300px;
 	height: 400px;
 	position: absolute;
-	left: 300px;
-	top:  10px;
+	left: 500px;
+	top:  100px;
 	border: solid 3px  black;
-	margin: 30px;
+	margin: 10px;
 }
